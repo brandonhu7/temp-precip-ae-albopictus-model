@@ -14,7 +14,7 @@ import numpy as np
 #t_plotfull and tp_plotfull (full time period for both temp only and temp and precip models) used as an example, can use for any time period
 df = pd.read_csv("t_plotfull.csv") 
 df1 = pd.read_csv('tp_plotfull.csv')
-merged = pd.read_csv('mosquitoes_by_week.csv')
+merged = pd.read_csv('wk1-141m.csv')
 #mosquitoes_by_week is the raw ovitrap data
 
 
