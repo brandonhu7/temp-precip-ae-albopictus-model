@@ -14,8 +14,8 @@ This repository contains the code used for the experiments described in the pape
 ├── data processing and plots/   # Code used to process raw data and generate formatted plots
 ├── data/                        # Data and Model Outputs
 ├── models/                      # Models used for simulations
-├── requirements.txt             # Python dependencies
-└── README.md
+├── README.md
+└── requirements.txt             # Python dependencies
 ```
 
 ## Requirements
